@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 <h3>Languages</h3>
@@ -31,9 +31,8 @@
 
 
 
-![Kim's github stats](https://github-readme-stats.vercel.app/api?username=gluehosp1837&show_icons=true&theme=tokyonight)
+![Kim's github stats](https://github-readme-stats.vercel.app/api?username=gluehosp1837&show_icons=true&theme=tokyonight)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gluehosp1837)](https://solved.ac/gluehosp1837/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gluehosp1837&layout=compact&hide=csharp)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gluehosp1837&layout=compact&hide=csharp)
 
 
 </div>
