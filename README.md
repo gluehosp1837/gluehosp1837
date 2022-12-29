@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=19&height=300&section=header&text=Yejin%Kim&fontSize=90&fontAlign=70" />
+
 
 
 <h3>About Me</h3>
@@ -34,5 +36,5 @@
 ![Kim's github stats](https://github-readme-stats.vercel.app/api?username=gluehosp1837&show_icons=true&theme=tokyonight)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gluehosp1837)](https://solved.ac/gluehosp1837/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gluehosp1837&layout=compact&hide=csharp)
 
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=19&height=200&section=footer)
 </div>
