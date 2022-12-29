@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=19&height=300&section=header&text=Yejin%Kim&fontSize=90&fontAlign=70" />
 
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgluehosp1837&count_bg=%232EDBB4&title_bg=%239B9DA0&icon=jabber.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <h3>About Me</h3>
 
